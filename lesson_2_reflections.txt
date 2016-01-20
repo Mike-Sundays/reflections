@@ -2,3 +2,15 @@ What happens when you initialize a repository? Why do you need to do it?
 
     A hidden directory is created (.git), which will hold all the metadata about
     the project. It is needed if I want to use git's features.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    These 3 are have completely different goals. The working directory is the one
+    you use while working on the project. The staging area serves as an intermediate
+    phase where you can choose which files you want to commit to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    I would only add the files to the staging area after implementing that change. That
+    way, I would guarantee the same thing in the commits.
