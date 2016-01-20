@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    A hidden directory is created (.git), which will hold all the metadata about
+    the project. It is needed if I want to use git's features.
