@@ -22,3 +22,7 @@ history organized? How would branches help?
     the project, be it because I want an alternate version, or simply to try new stuff
     out. This preserves the original version. It also gives a nice visualization of the
     history of the project, and that helps a lot!
+
+How do the diagrams help you visualize the branch structure?
+
+    Well, duh!
