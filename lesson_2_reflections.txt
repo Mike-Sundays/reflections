@@ -14,3 +14,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
     I would only add the files to the staging area after implementing that change. That
     way, I would guarantee the same thing in the commits.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+    They would be extremely helpful when I want to diverge from the main version of
+    the project, be it because I want an alternate version, or simply to try new stuff
+    out. This preserves the original version. It also gives a nice visualization of the
+    history of the project, and that helps a lot!
