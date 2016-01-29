@@ -26,3 +26,13 @@ history organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
 
     Well, duh!
+
+What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+    It means that all the changes introduced in both branches will merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    Answer later.
