@@ -21,12 +21,12 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     It allows me compare local and the most recent remote files. It can get
-    quite handy when merging, as I have seen. 
+    quite handy when merging, as I have seen.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    GitHub FTW!
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
